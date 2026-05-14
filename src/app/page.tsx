@@ -66,7 +66,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/empty-wood-chair_1339-7232.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/empty-wood-chair_1339-7232.jpg?_wi=1"
       imageAlt="Scenic view of Sanaya restaurant in Annaya"
       showDimOverlay={true}
       avatars={[
@@ -296,7 +296,7 @@ export default function LandingPage() {
       title="Common Questions"
       description="Everything you need to know before visiting us."
       faqsAnimation="blur-reveal"
-      imageSrc="http://img.b2bpic.net/free-photo/empty-wood-chair_1339-7232.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/empty-wood-chair_1339-7232.jpg?_wi=2"
       imageAlt="Scenic view of Sanaya restaurant in Annaya"
       mediaAnimation="slide-up"
     />
